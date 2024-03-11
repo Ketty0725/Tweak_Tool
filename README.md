@@ -99,4 +99,4 @@ https://github.com/Ketty0725/Tweak_Backup/assets/103920238/73d24725-7625-40b9-88
 [issues-shield]: https://img.shields.io/github/issues/Ketty0725/Tweak_Backup.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/Ketty0725/Tweak_Backup.svg
 [license-shield]: https://img.shields.io/github/license/Ketty0725/Tweak_Backup.svg?style=flat-square
-[license-url]: https://github.com/Ketty0725/Tweak_Backup/blob/master/LICENSE.txt
+[license-url]: https://github.com/Ketty0725/Tweak_Backup/blob/master/LICENSE
