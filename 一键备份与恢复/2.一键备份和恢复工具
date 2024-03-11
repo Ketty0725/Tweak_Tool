@@ -12,7 +12,6 @@ snowboard_dir=./滑雪板主题
 nice_dir=./NiceBarX
 callassist_dir=./电话助手主题
 tweaksetting_dir=./插件配置备份
-others_dir=./其他设置备份
 sources_dir=./源地址备份
 
 mkd(){
@@ -148,7 +147,6 @@ setting2backup(){
         cp -a /var/jb/User/NiceiOS ./"$tweaksetting_dir"/
     fi;
 	cp -a /var/jb/User/Library ./"$tweaksetting_dir"/ 2> /dev/null
-	cp -a /var/mobile/Library/Preferences/* ./"$others_dir"/ 2> /dev/null
 	cp -a /var/jb/etc/apt/sources.list.d/sileo.sources ./"$sources_dir"/ 2> /dev/null
 	
 	clear
@@ -280,7 +278,6 @@ recover(){
 		cp -a ./"$nice_dir"/* /var/mobile/Library/NiceiOS/NiceBarX/
 		cp -a ./"$callassist_dir"/* /var/jb/Library/CallAssist/theme/
 		cp -a ./"$tweaksetting_dir"/* /var/jb/User/
-		cp -a ./"$others_dir"/* /var/mobile/Library/Preferences/
 		cp -a ./"$sources_dir"/sileo.sources /var/jb/etc/apt/sources.list.d/
 		chown mobile:staff /var/jb/User/Library/Preferences
 		echo -e "${nco} 插件设置恢复成功${nco}"
