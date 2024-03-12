@@ -29,9 +29,9 @@
 本工具由预言小猫优化整合
 
 ### 上手指南
-请先在sileo或saily中确认gawk和libmpfr6这两个依赖有没有安装，没有的先安装，否则插件备份为空！
+sileo或saily添加软件源：https://ketty0725.github.io/repo/
 
-使用本工具之前请先执行 "1.权限修改" 文件！
+Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件即可 
 
 ### 预览
 ![image](1.png)
