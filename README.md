@@ -1,4 +1,22 @@
-# Tweak_Tool
+<!-- PROJECT LOGO -->
+
+<p align="center">
+   <a href="https://github.com/Ketty0725/Tweak_Tool/">
+    <img src="logo.png" alt="Logo" width="80" height="80">
+  </a>
+  <h2 align="center">欢迎使用一键备份和恢复工具</h2>
+  <p align="center">
+    适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具
+    <br />
+    <a href="https://github.com/Ketty0725/Tweak_Tool"><strong>探索本项目的文档 »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Ketty0725/Tweak_Tool/issues">报告Bug</a>
+    ·
+    <a href="https://github.com/Ketty0725/Tweak_Tool/issues">提出新特性</a>
+  </p>
+
+</p>
 
 <!-- PROJECT SHIELDS -->
 
@@ -6,27 +24,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-<!-- PROJECT LOGO -->
-<br />
-
-<p align="center">
-   <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="logo.png" alt="Logo" width="80" height="80">
-  </a>
-  <h2 align="center">欢迎使用一键备份和恢复工具</h2>
-  <p align="center">
-    适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具
-    <br />
-    <a href="https://github.com/Ketty0725/Tweak_Backup"><strong>探索本项目的文档 »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Ketty0725/Tweak_Backup/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/Ketty0725/Tweak_Backup/issues">提出新特性</a>
-  </p>
-
-</p>
 
 本工具由预言小猫优化整合
 
