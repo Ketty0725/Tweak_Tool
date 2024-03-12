@@ -46,12 +46,12 @@ Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢
 
 
 <!-- links -->
-[your-project-path]:Ketty0725/Tweak_Backup
-[forks-shield]: https://img.shields.io/github/forks/Ketty0725/Tweak_Backup.svg?style=flat-square
-[forks-url]: https://github.com/Ketty0725/Tweak_Backup/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ketty0725/Tweak_Backup.svg?style=flat-square
-[stars-url]: https://github.com/Ketty0725/Tweak_Backup/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ketty0725/Tweak_Backup.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/Ketty0725/Tweak_Backup.svg
-[license-shield]: https://img.shields.io/github/license/Ketty0725/Tweak_Backup.svg?style=flat-square
-[license-url]: https://github.com/Ketty0725/Tweak_Backup/blob/main/LICENSE
+[your-project-path]:Ketty0725/Tweak_Tool
+[forks-shield]: https://img.shields.io/github/forks/Ketty0725/Tweak_Tool.svg?style=flat-square
+[forks-url]: https://github.com/Ketty0725/Tweak_Tool/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ketty0725/Tweak_Tool.svg?style=flat-square
+[stars-url]: https://github.com/Ketty0725/Tweak_Tool/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ketty0725/Tweak_Tool.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/Ketty0725/Tweak_Tool.svg
+[license-shield]: https://img.shields.io/github/license/Ketty0725/Tweak_Tool.svg?style=flat-square
+[license-url]: https://github.com/Ketty0725/Tweak_Tool/blob/main/LICENSE
