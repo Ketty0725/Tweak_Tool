@@ -11,7 +11,9 @@
 <br />
 
 <p align="center">
-
+   <a href="https://github.com/shaojintian/Best_README_template/">
+    <img src="logo.png" alt="Logo" width="80" height="80">
+  </a>
   <h2 align="center">欢迎使用一键备份和恢复工具</h2>
   <p align="center">
     适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具
