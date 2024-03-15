@@ -32,8 +32,11 @@ sileo或saily添加软件源：https://ketty0725.github.io/repo/
 
 Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件即可 
 
-### 预览
-![image](预览.png)
+### 插件介绍
+![image](插件介绍.png)
+
+### 更新日志
+![image](更新日志.png)
 
 ### 演示
 [demo](https://github.com/Ketty0725/Tweak_Tool/assets/103920238/92a00d18-2751-4268-a5ab-0a9a0dc51b68)
