@@ -10,7 +10,6 @@
     <br />
     <a href="https://github.com/Ketty0725/Tweak_Tool"><strong>探索本项目的文档 »</strong></a>
     <br />
-    如果本工具对你有所帮助，请帮忙点点star🌟
     <br />
     <a href="https://github.com/Ketty0725/Tweak_Tool/issues">报告Bug</a>
     ·
@@ -27,6 +26,7 @@
 [![MIT License][license-shield]][license-url]
 
 本工具由预言小猫优化整合
+如果本工具对你有所帮助，请帮忙点点star🌟
 
 ### 上手指南
 sileo或saily添加软件源：https://ketty0725.github.io/repo/
