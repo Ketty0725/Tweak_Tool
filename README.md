@@ -44,6 +44,10 @@ Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢
 - [菠萝](https://discord.com/invite/UvHZz3HfN9)
 - 建哥
 
+### 访问量
+
+![](http://profile-counter.glitch.me/evilbutcher/count.svg)
+
 
 <!-- links -->
 [your-project-path]:Ketty0725/Tweak_Tool
