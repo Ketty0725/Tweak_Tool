@@ -10,6 +10,7 @@
     <br />
     <a href="https://github.com/Ketty0725/Tweak_Tool"><strong>探索本项目的文档 »</strong></a>
     <br />
+    如果本工具对你有所帮助，请帮忙点点star🌟
     <br />
     <a href="https://github.com/Ketty0725/Tweak_Tool/issues">报告Bug</a>
     ·
