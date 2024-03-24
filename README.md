@@ -38,7 +38,11 @@ sileo或saily添加软件源：https://ketty0725.github.io/repo/
 
 由于Filza自带的终端效率偏低，建议使用方法2️⃣
 
+### 插件介绍
+![image](插件介绍.png)
 
+### 更新日志
+![image](更新日志.png)
 
 ### 演示
 [demo](https://github.com/Ketty0725/Tweak_Tool/assets/103920238/92a00d18-2751-4268-a5ab-0a9a0dc51b68)
