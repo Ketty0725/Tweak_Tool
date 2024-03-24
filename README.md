@@ -32,7 +32,11 @@
 ### 上手指南
 sileo或saily添加软件源：https://ketty0725.github.io/repo/
 
-Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件即可 
+1️⃣Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件
+
+2️⃣在MTerminal或NewTerm中输入"sudo tweaktool"命令运行 
+
+由于Filza自带的终端效率偏低，建议使用方法2️⃣
 
 ### 插件介绍
 ![image](插件介绍.png)
