@@ -38,6 +38,9 @@ sileo或saily添加软件源：https://ketty0725.github.io/repo/
 
 由于Filza自带的终端效率偏低，建议使用方法2️⃣
 
+### 注意⚠️
+Xina用户请使用saily版本控制下载1.6.4版本，Dopamine用户随意
+
 ### 插件介绍
 ![image](插件介绍.png)
 
